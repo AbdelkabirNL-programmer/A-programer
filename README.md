@@ -20,5 +20,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
+## 🚀 Currently Building
+
+🔹 FastAPI Backend Applications  
+🔹 REST APIs  
+🔹 Database Systems with SQLAlchemy  
+🔹 Automation Tools with Python
+
+
+## 🧰 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,git,github,docker,linux"/>
+
 
 ## 📚 My Learning Journey
